@@ -3,7 +3,7 @@
 This is A way to implement NtDll in C# (also includes some kernel32.dll functions to get thread or process handle). Partially implemented.
 
 Includes : 
-<br>
+
 * RtlAdjustPrivilege
 * NtRaiseHardError
 * NtShutdownSystem
@@ -19,9 +19,9 @@ Includes :
 * GetCurrentProcess (Kernel32)
 * GetCurrentThreadId (Kernel32)
 * GetCurrentProcessId (Kernel32)
-<br>
+
 Sample : 
-<br>
+
 * Get Firmware Type
 * Get Numbers of Disks
 * Get Total Number of Handles 
