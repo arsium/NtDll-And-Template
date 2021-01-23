@@ -1,6 +1,6 @@
 # NtDll & Template
 
-This is A way to implement NtDll in C# (also includes some kernel32.dll functions to get thread or process handle). Partially implemented.
+This is A way to implement NtDll in C# (also includes some kernel32.dll functions to get thread or process handle).I tried to be closest to C++ implementations.Partially implemented.
 
 Includes : 
 
