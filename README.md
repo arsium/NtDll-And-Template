@@ -31,3 +31,12 @@ Sample :
 * Get Thread Priority Boost
 * Enable Thread Priority Boost
 * Get All Processes like Process Hacker (and their threads) + some details (partially implemented)
+
+Note  : Read sample project , commentaries and go to source links to understand how it works.
+
+Sources : 
+
+* http://ntoskrnl.org/
+* https://doxygen.reactos.org
+* http://www.dotnetframework.org
+* https://csharp.hotexamples.com
