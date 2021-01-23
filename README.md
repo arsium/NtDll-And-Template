@@ -34,7 +34,7 @@ Sample :
 
 Note  : Read sample project , commentaries and go to source links to understand how it works.
 
-Sources : 
+Sources (I will make a txt file with detail links): 
 
 * http://ntoskrnl.org/
 * https://doxygen.reactos.org
